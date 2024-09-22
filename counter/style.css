@@ -1,0 +1,18 @@
+body{
+    display: block;
+    text-align: center;
+    font-size: 80px;
+    width: 50%;
+}
+.cnotainer{
+    width: 40%;
+    height: 70vh;
+    border: 2px solid blue;
+}
+button{
+    border-radius: 7px;
+    text-align: center;
+    background-color: rgb(156, 160, 160);
+    height: 30px;
+    text-transform: capitalize;
+}
